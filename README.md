@@ -1,3 +1,3 @@
 ```
-composer ran-script test
+composer run-script test
 ```
